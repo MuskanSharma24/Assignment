@@ -1,0 +1,4 @@
+Create a CRM for a healthcare clinic.
+It should manage patients, doctors, appointments, and medical records.
+Use a secure authentication system and ensure basic HIPAA compliance.
+Prefer Flask or Django with PostgreSQL for storage.

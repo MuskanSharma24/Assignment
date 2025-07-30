@@ -1,0 +1,8 @@
+You are tasked with generating CRM code for an e-commerce company.
+
+Generate code that includes:
+- Customer data management
+- Order history tracking
+- Product recommendation logic (basic)
+- Flask-based API
+- SQLite for database

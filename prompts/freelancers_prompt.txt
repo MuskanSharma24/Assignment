@@ -1,0 +1,4 @@
+Design a simple CRM for freelancers.
+Track client interactions, project deadlines, invoices, and payments.
+Use Flask or FastAPI with a lightweight database.
+Include email integration for follow-ups.

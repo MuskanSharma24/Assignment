@@ -1,0 +1,4 @@
+Develop a CRM for an educational institution.
+Manage student information, enrollments, courses, attendance, and grades.
+Include role-based access for admins, teachers, and students.
+Prefer Django with Django REST Framework.

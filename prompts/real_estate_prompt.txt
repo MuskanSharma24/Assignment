@@ -1,0 +1,4 @@
+Create a CRM application for a real estate business.
+It should manage clients, property listings, leads, and agents.
+Include database models, API endpoints, and basic UI components.
+Use Flask or FastAPI with SQLAlchemy for the backend.
